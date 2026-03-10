@@ -44,9 +44,7 @@ I build APIs that don't break, databases that scale, and user interfaces that ac
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greedyraccoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Raccoon's GitHub Stats" />
-</div>
+![Raccoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=greedyraccoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 <br>
 
