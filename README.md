@@ -1,5 +1,5 @@
 # 🦝 Hi, I'm Greedy Raccoon! 
-
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 ### **Java-First Full Stack Engineer | Bridging the gap to AI-Ready Backends**
 
 I am a software developer with a heavy focus on strictly-typed, enterprise-grade backend architecture (Java & Spring Boot), currently expanding into modern cloud deployments (AWS/Docker) and responsive frontends (React/TypeScript). 
