@@ -2,18 +2,21 @@
 ![Profile views](https://komarev.com/ghpvc/?username=greedyraccoon&color=blue)
 ### **Java-First Full Stack Engineer | Bridging the gap to AI-Ready Backends**
 
-I am a software developer with a heavy focus on strictly-typed, enterprise-grade backend architecture (Java & Spring Boot), currently expanding into modern cloud deployments (AWS/Docker) and responsive frontends (React/TypeScript). 
+I'm a Computer Engineering graduate and Java-first developer passionate about building reliable backend systems with Spring Boot, PostgreSQL, and REST APIs.
 
-I build APIs that don't break, databases that scale, and user interfaces that actually look good.
+Alongside software development, I've spent over five years working in logistics and operations, giving me first-hand experience with freight workflows, dispatch planning, customer operations, and business processes. I enjoy turning those real-world challenges into practical software solutions—from Freight Management Systems to Property Management platforms.
+
+I'm currently expanding my frontend skills with React and TypeScript while building production-oriented full-stack applications.
+
+💡 **Philosophy:** Backend logic runs the world; the frontend just makes it look pretty. 
 
 ---
 
 ### 🚀 What I'm Currently Up To
-- 🔭 **Building:** A Full-Stack Logistics & Freight Tracking System from scratch.
-- 🌱 **Learning:** React state management, Tailwind CSS, and Containerization (Docker).
-- 🎯 **2026 Goal:** Integrating `pgvector` and Spring AI to build LLM-powered supply chain routing and analytics.
-- 💡 **Philosophy:** Backend logic runs the world; the frontend just makes it look pretty. 
-
+- 🚛 **Freight Management System:** End-to-end logistics platform inspired by real operational workflows.
+- 🌱 **Learning:** React, TypeScript, Tailwind CSS, and Docker.
+- 📚 **Current Focus:** Building production-ready full-stack applications and strengthening backend architecture.
+  
 ---
 
 ### 💻 My Tech Stack
@@ -22,16 +25,15 @@ I build APIs that don't break, databases that scale, and user interfaces that ac
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
 
 **2. Databases & Messaging**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
 
 **3. Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **4. Frontend User Interface**
