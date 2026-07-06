@@ -12,6 +12,11 @@ I'm currently expanding my frontend skills with React and TypeScript while build
 
 ---
 
+### 📬 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-graccoon%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:graccoon@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-GreedyRaccoon-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/greedyraccoon/)
+
 ### 🚀 What I'm Currently Up To
 - 🚛 **Freight Management System:** End-to-end logistics platform inspired by real operational workflows.
 - 🌱 **Learning:** React, TypeScript, Tailwind CSS, and Docker.
